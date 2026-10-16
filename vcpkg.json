@@ -1,0 +1,8 @@
+{
+  "name": "ashkan-social-nexus",
+  "version-string": "0.2.0",
+  "dependencies": [
+    "sqlite3",
+    "openssl"
+  ]
+}
